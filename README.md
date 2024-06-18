@@ -5,7 +5,7 @@
 - 📫 How to reach me follow me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a competitive swimmer and swim on a team
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=BogdanOnGithub&theme=monokai&rank=SSS&title=RizzAward)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 BogdanOnGithub/BogdanOnGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
